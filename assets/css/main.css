@@ -30,3 +30,141 @@ h6{
     margin:0;
     padding:0;
 }
+
+
+
+
+
+
+
+/**/
+/*Section Introduction*/
+/**/
+
+
+section#Introduction{
+    background: red;
+    background: -webkit-linear-gradient(#196484, #042346);
+    background: -o-linear-gradient(#196484, #042346);
+    background: -moz-linear-gradient(#196484, #042346);
+    background: linear-gradient(#196484, #042346);
+    min-height: 100vh;
+}
+
+section#Introduction .container{
+    padding:5vh 0px 5vh;
+}
+
+section#Introduction .container .row{
+    box-shadow: 0px 0px 10px #031b35;
+    min-height: 90vh;
+}
+
+
+
+
+
+
+
+
+.main-menu {
+    text-align: center;
+    padding-top:20px;
+}
+
+.main-menu ul li {
+    padding: 5px 10px;
+}
+
+.main-menu ul li a {
+    color: #fff;
+    text-transform: uppercase;
+    font-weight: 400;
+}
+
+.main-menu ul li a:hover{
+    color:#399;
+}
+
+
+
+
+
+
+
+.intro-box{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-left: -38%;
+    margin-top: -60px;
+    text-align: center;
+}
+
+
+.intro-box h3 {
+    font-family: 'Roboto', sans-serif;
+    font-size: 50px;
+    font-weight: 100;
+    color: #fff;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+}
+
+.intro-box h1 {
+    font-family: 'Roboto', sans-serif;
+    font-size: 45px;
+    font-weight: 900;
+    color: #fff;
+    text-transform: uppercase;
+    padding-top: 25px;
+    padding-bottom: 40px;
+}
+
+
+
+
+
+.profiles-menu{
+    padding-bottom: 30px;
+}
+
+.profiles-menu ul li {
+    padding: 5px 10px;
+    border: 1px solid #399;
+    margin-right: 10px;
+}
+
+.profiles-menu ul li a{
+    color:#fff;
+}
+
+
+.profiles-menu ul li:hover {
+    background:#23C181;
+}
+
+.profiles-menu ul li:hover a {
+    color:#fff;
+}
+
+
+
+
+
+
+div.btns button.btn.btn-primary {
+    margin-right: 25px;
+    cursor:pointer;
+}
+
+
+
+
+
+
+
+
+
+
+
